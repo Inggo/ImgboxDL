@@ -1,5 +1,7 @@
 # ImgboxDL.py
 
+Bulk-download albums from imgbox.com
+
 ## Requirements
 
 - python3
@@ -7,4 +9,4 @@
 
 ## Usage
 
-python3 ImgboxDL.py <url>
+python3 ImgboxDL.py &lt;url&gt;
